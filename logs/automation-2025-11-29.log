@@ -1,0 +1,50 @@
+19:37:36.576 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:37:48.548 [main] INFO  testCases.TC003_LoginDDT -===== Test Finished====>
+19:37:48.552 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:37:59.490 [main] INFO  testCases.TC003_LoginDDT -===== Test Finished====>
+19:37:59.493 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:38:00.937 [main] INFO  testCases.TC003_LoginDDT -===== Test Finished====>
+19:38:21.954 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\gkakade\API_GK\opencartdemo\testng.xml
+
+19:38:22.464 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+19:38:22.492 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\gkakade\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+19:38:26.575 [main] INFO  testCases.TC001_Account_Registartion -<----Starting Test TC001_Account_Registartion ----->
+19:38:26.910 [main] INFO  testCases.TC001_Account_Registartion -<----Clicked on My Account Link----->
+19:38:27.505 [main] INFO  testCases.TC001_Account_Registartion -<----Clicked on My Register Link----->
+19:38:27.509 [main] INFO  testCases.TC001_Account_Registartion -<----Providing customer info----->
+19:38:30.150 [main] INFO  testCases.TC001_Account_Registartion -<----Validating expected message----->
+19:38:30.154 [main] INFO  testCases.TC001_Account_Registartion -<----Testing is Finished------>
+19:38:30.375 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+19:38:30.411 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\gkakade\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+19:38:34.109 [main] INFO  testCases.TC002_LoginTest -====> TC002_LoginTest execution started =====> 
+19:38:34.854 [main] INFO  testCases.TC002_LoginTest -===Entering details for login====
+19:38:36.201 [main] INFO  testCases.TC002_LoginTest -===TC002_LoginTest Completed====
+19:38:36.456 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+19:38:36.483 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\gkakade\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+19:38:41.604 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:38:43.847 [main] INFO  testCases.TC003_LoginDDT -===== Test Finished====>
+19:38:43.850 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:38:53.997 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:39:05.456 [main] INFO  testCases.TC003_LoginDDT -===== Test Finished====>
+19:39:05.459 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:39:12.603 [main] INFO  testCases.TC003_LoginDDT -===== Test Finished====>
+19:39:12.604 [main] INFO  testCases.TC003_LoginDDT -===== Test Started====>
+19:40:06.614 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\gkakade\API_GK\opencartdemo\testng.xml
+
+19:40:07.092 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+19:40:07.116 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\gkakade\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+19:40:11.126 [main] INFO  testCases.TC001_Account_Registartion -<----Starting Test TC001_Account_Registartion ----->
+19:40:11.363 [main] INFO  testCases.TC001_Account_Registartion -<----Clicked on My Account Link----->
+19:40:11.988 [main] INFO  testCases.TC001_Account_Registartion -<----Clicked on My Register Link----->
+19:40:11.991 [main] INFO  testCases.TC001_Account_Registartion -<----Providing customer info----->
+19:40:15.378 [main] INFO  testCases.TC001_Account_Registartion -<----Validating expected message----->
+19:40:15.381 [main] INFO  testCases.TC001_Account_Registartion -<----Testing is Finished------>
+19:40:15.633 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+19:40:15.663 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\gkakade\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+19:40:19.340 [main] INFO  testCases.TC002_LoginTest -====> TC002_LoginTest execution started =====> 
+19:40:20.043 [main] INFO  testCases.TC002_LoginTest -===Entering details for login====
+19:40:21.272 [main] INFO  testCases.TC002_LoginTest -===TC002_LoginTest Completed====
+19:40:21.456 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+19:40:21.493 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\gkakade\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
