@@ -12,7 +12,7 @@ public class register extends basePage{
 		// TODO Auto-generated constructor stub
 	}
 
-	
+//These are the locators that show encapsulation	
 	
 	
 	@FindBy(xpath="//input[@id='input-firstname']")
